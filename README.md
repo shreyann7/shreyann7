@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4" alt="Marton Lederer" />
+  <img src="https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4" alt="Shreyan" />
 </h1>
 
 ## Hey! 👋
