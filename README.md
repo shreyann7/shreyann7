@@ -1,9 +1,8 @@
 
-<h1 align="center">
-<!--   <img src="https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4" alt="Shreyan" /> -->
+<div style="text-align:center; height:500px;">
+  <![Game On](https://user-images.githubusercontent.com/86298991/167299417-21139ed0-d0d4-4ea8-8f68-ac6bde7d9ffa.gif)
+ <div>
 
-/h1>
-<![Game On](https://user-images.githubusercontent.com/86298991/167299417-21139ed0-d0d4-4ea8-8f68-ac6bde7d9ffa.gif)
 
 
 ## Hey! 👋
