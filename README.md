@@ -1,8 +1,11 @@
 
 <h1 align="center">
-  [![Demo CountPages alpha](https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4)]
   <img src="https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4" alt="Shreyan" />
 </h1>
+
+https://user-images.githubusercontent.com/86298991/167299325-6ef5b7a2-5a3e-4903-9762-84b370c35949.mp4
+
+
 
 ## Hey! 👋
 I'm Shreyan, a 19 years old web developer from India.
