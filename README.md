@@ -13,11 +13,11 @@ my intrests are
 ## Skills
 - 👨‍💻 C, JavaScript, PHP, C++, Python, Java
 - ⚙️ React, Node js
-- 👁️ SASS, CSS, HTML
+- 👁️ SASS, CSS, HTML, SEO
 - 💽 MySQL, SQL, Mongo
 
 ## Present
-- 🌱 I’m currently persuing B.tech in Computer Science & Engineering
+- 🌱 I’m currently pursuing B.tech in Computer Science & Engineering
 - Currently working on project : ML based personal object detector for visually impaired
 
 ## Contact
