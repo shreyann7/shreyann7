@@ -1,7 +1,5 @@
 
-<div style="text-align:center; height:500px;">
-  <![Game On](https://user-images.githubusercontent.com/86298991/167299417-21139ed0-d0d4-4ea8-8f68-ac6bde7d9ffa.gif)
- <div>
+![Game On (1)](https://user-images.githubusercontent.com/86298991/167299698-b70381e2-2dbf-4bd4-9aa3-db96d011728f.gif)
 
 
 
