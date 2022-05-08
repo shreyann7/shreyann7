@@ -1,9 +1,9 @@
 
 <h1 align="center">
 <!--   <img src="https://user-images.githubusercontent.com/86298991/167298726-77c4f07d-42b0-416f-8206-658c06617db9.mp4" alt="Shreyan" /> -->
-<![Game On](https://user-images.githubusercontent.com/86298991/167299417-21139ed0-d0d4-4ea8-8f68-ac6bde7d9ffa.gif)
-/h1>
 
+/h1>
+<![Game On](https://user-images.githubusercontent.com/86298991/167299417-21139ed0-d0d4-4ea8-8f68-ac6bde7d9ffa.gif)
 
 
 ## Hey! 👋
@@ -21,11 +21,11 @@ my intrests are
 - 👁️ SASS, CSS, HTML
 - 💽 MySQL, SQL, Mongo
 
-##Present
+## Present
 - 🌱 I’m currently persuing B.tech in Computer Science & Engineering
 - Currently working on project : ML based personal object detector for visually impaired
 
-##Contact
+## Contact
 - shreyan0712@gmail.com
 
 <!---
