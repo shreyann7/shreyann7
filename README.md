@@ -1,6 +1,4 @@
-
-![Game On (1)](https://user-images.githubusercontent.com/86298991/167299698-b70381e2-2dbf-4bd4-9aa3-db96d011728f.gif)
-
+![Game On (2)](https://user-images.githubusercontent.com/86298991/167299767-ff832685-338d-4f1b-8062-fa7d41fe60ef.gif)
 
 
 ## Hey! 👋
